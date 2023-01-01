@@ -12,3 +12,5 @@ this is push request to origin.
 add to push origin.
 :wq
 
+this will be happen to pull request..
+......................................
